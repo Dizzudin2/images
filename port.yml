@@ -1,3 +1,6 @@
+# Description: The port.yml file is the main file of the port gitOps.
+# It contains all the information about the components that are part of the system.
+
 # domain
 - identifier: orders
   title: Orders
